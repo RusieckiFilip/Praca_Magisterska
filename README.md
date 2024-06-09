@@ -16,6 +16,7 @@ Table of Contents
 -Acknowledgements
 
 Introduction:
+
 Lung cancer is one of the leading causes of cancer-related deaths worldwide. 
 Early detection and accurate characterization of lung tumors are crucial for effective treatment planning and improving patient outcomes. 
 In this thesis, I explore the use of Convolutional Neural Networks (CNNs) for the detection and description of lung tumors from medical imaging data.
