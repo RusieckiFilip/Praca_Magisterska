@@ -6,36 +6,25 @@ The goal of this project is to develop and evaluate deep learning models that ca
 Table of Contents
 
 -Introduction
-
 -Data
-
 -Methodology
-
 -Model Architecture
-
 -Results
-
 -Conclusion
-
 -Usage
-
 -License
-
 -Acknowledgements
 
 Introduction:
-
 Lung cancer is one of the leading causes of cancer-related deaths worldwide. 
 Early detection and accurate characterization of lung tumors are crucial for effective treatment planning and improving patient outcomes. 
 In this thesis, I explore the use of Convolutional Neural Networks (CNNs) for the detection and description of lung tumors from medical imaging data.
 
 Data:
-
 The dataset used in this project is the publicly available LIDC-IDRI dataset from The Cancer Imaging Archive (TCIA). 
 This dataset includes thoracic CT scans with annotated lesions, providing a rich resource for developing and evaluating algorithms for lung tumor detection and characterization.
 
 Methodology:
-
 The project involves several key steps:
 
 -Data preprocessing: Normalizing and augmenting the imaging data to improve model performance.
