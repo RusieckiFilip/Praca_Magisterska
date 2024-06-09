@@ -44,7 +44,7 @@ Conclusion: <br />
 The use of CNNs for lung tumor detection and description shows great potential. 
 This project demonstrates the effectiveness of deep learning models in medical image analysis and highlights areas for future research and improvement.
 
-Installation: 
+Installation:  <br />
 To run the code in this repository, follow these steps: <br />
 Clone the repository: <br />
 git clone https://github.com/yourusername/lung-tumor-detection.git
