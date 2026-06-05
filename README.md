@@ -68,9 +68,6 @@ Evaluate the model: <br />
 python evaluate_model.py
 
 
-License: <br />
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Acknowledgements: <br />
 This work was conducted at the Interdisciplinary Centre for Mathematical and Computational Modelling (ICM), University of Warsaw, under the supervision of Dr. Jakub Zieliński. I would like to thank my academic advisors, the contributors to the LIDC-IDRI dataset, and the open-source community for their invaluable support and resources. Special thanks to the PyTorch community for their excellent tools and documentation.
 
